@@ -1,0 +1,22 @@
+﻿  Source.cpp
+D:\Documentos\Erwin\SUPERIOR\QUINTO SEMESTRE\Visión Artificial\Prácticas\Proyecto primer parcial Munguia PE\Proyecto primer parcial Munguia PE\Source.cpp(47,72): warning C4244: '=': conversión de 'double' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+D:\Documentos\Erwin\SUPERIOR\QUINTO SEMESTRE\Visión Artificial\Prácticas\Proyecto primer parcial Munguia PE\Proyecto primer parcial Munguia PE\Source.cpp(61,70): warning C4244: '=': conversión de 'double' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+D:\Documentos\Erwin\SUPERIOR\QUINTO SEMESTRE\Visión Artificial\Prácticas\Proyecto primer parcial Munguia PE\Proyecto primer parcial Munguia PE\Source.cpp(104,29): warning C4244: '=': conversión de 'float' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=uchar
+          ]
+D:\Documentos\Erwin\SUPERIOR\QUINTO SEMESTRE\Visión Artificial\Prácticas\Proyecto primer parcial Munguia PE\Proyecto primer parcial Munguia PE\Source.cpp(163,32): warning C4244: '=': conversión de 'double' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=uchar
+          ]
+  Proyecto primer parcial Munguia PE.vcxproj -> D:\Documentos\Erwin\SUPERIOR\QUINTO SEMESTRE\Visión Artificial\Prácticas\Proyecto primer parcial Munguia PE\x64\Debug\Proyecto primer parcial Munguia PE.exe

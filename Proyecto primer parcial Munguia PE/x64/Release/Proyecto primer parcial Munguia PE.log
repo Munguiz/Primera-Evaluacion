@@ -1,0 +1,31 @@
+﻿  Source.cpp
+D:\Documentos\Erwin\SUPERIOR\QUINTO SEMESTRE\Visión Artificial\Prácticas\Proyecto primer parcial Munguia PE\Proyecto primer parcial Munguia PE\Source.cpp(47,72): warning C4244: '=': conversión de 'double' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+D:\Documentos\Erwin\SUPERIOR\QUINTO SEMESTRE\Visión Artificial\Prácticas\Proyecto primer parcial Munguia PE\Proyecto primer parcial Munguia PE\Source.cpp(107,29): warning C4244: '=': conversión de 'float' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=uchar
+          ]
+D:\Documentos\Erwin\SUPERIOR\QUINTO SEMESTRE\Visión Artificial\Prácticas\Proyecto primer parcial Munguia PE\Proyecto primer parcial Munguia PE\Source.cpp(143,28): warning C4244: '=': conversión de 'double' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=uchar
+          ]
+D:\Documentos\Erwin\SUPERIOR\QUINTO SEMESTRE\Visión Artificial\Prácticas\Proyecto primer parcial Munguia PE\Proyecto primer parcial Munguia PE\Source.cpp(162,10): warning C4804: '<': uso no seguro del tipo 'bool' en la operación
+D:\Documentos\Erwin\SUPERIOR\QUINTO SEMESTRE\Visión Artificial\Prácticas\Proyecto primer parcial Munguia PE\Proyecto primer parcial Munguia PE\Source.cpp(162,36): warning C4804: '<=': uso no seguro del tipo 'bool' en la operación
+D:\Documentos\Erwin\SUPERIOR\QUINTO SEMESTRE\Visión Artificial\Prácticas\Proyecto primer parcial Munguia PE\Proyecto primer parcial Munguia PE\Source.cpp(166,18): warning C4804: '<': uso no seguro del tipo 'bool' en la operación
+D:\Documentos\Erwin\SUPERIOR\QUINTO SEMESTRE\Visión Artificial\Prácticas\Proyecto primer parcial Munguia PE\Proyecto primer parcial Munguia PE\Source.cpp(170,18): warning C4804: '<': uso no seguro del tipo 'bool' en la operación
+D:\Documentos\Erwin\SUPERIOR\QUINTO SEMESTRE\Visión Artificial\Prácticas\Proyecto primer parcial Munguia PE\Proyecto primer parcial Munguia PE\Source.cpp(174,19): warning C4804: '<': uso no seguro del tipo 'bool' en la operación
+D:\Documentos\Erwin\SUPERIOR\QUINTO SEMESTRE\Visión Artificial\Prácticas\Proyecto primer parcial Munguia PE\Proyecto primer parcial Munguia PE\Source.cpp(187,30): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+D:\Documentos\Erwin\SUPERIOR\QUINTO SEMESTRE\Visión Artificial\Prácticas\Proyecto primer parcial Munguia PE\Proyecto primer parcial Munguia PE\Source.cpp(188,29): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+D:\Documentos\Erwin\SUPERIOR\QUINTO SEMESTRE\Visión Artificial\Prácticas\Proyecto primer parcial Munguia PE\Proyecto primer parcial Munguia PE\Source.cpp(197,19): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Documentos\Erwin\SUPERIOR\QUINTO SEMESTRE\Visión Artificial\Prácticas\Proyecto primer parcial Munguia PE\Proyecto primer parcial Munguia PE\Source.cpp(200,12): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+  Generando código
+  6 of 129 functions ( 4.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  Proyecto primer parcial Munguia PE.vcxproj -> D:\Documentos\Erwin\SUPERIOR\QUINTO SEMESTRE\Visión Artificial\Prácticas\Proyecto primer parcial Munguia PE\x64\Release\Proyecto primer parcial Munguia PE.exe
